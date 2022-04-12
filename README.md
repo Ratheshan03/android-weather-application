@@ -1,3 +1,3 @@
 # Android weather Application
 
-Kotlin, Sqlite, Roo library, OpenWeatherAPI 
+Kotlin, Sqlite, Room library, OpenWeatherAPI 
